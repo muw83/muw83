@@ -1,16 +1,16 @@
-### Hi there 👋
+### Welcome!
 
 <!--
-**muw83/muw83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**muw83/muw83** is my ✨ _special_ ✨ repository.
 
-Here are some ideas to get you started:
+My name is Miya (pronounced like Maya).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I am a Library and Information Science major focusing on archival studies.
+
+- I’m currently learning how to use GitHub! 
+- I’m currently learning digital and data stewardship and EAD XML.
+- I’m looking to collaborate on Black liberation and quality metadata creation.
+- 💬 Ask me about my studies.
+- 📫 How to reach me: mu83@drexel.edu
+- Pronouns: she/they
 -->
