@@ -10,3 +10,7 @@ I am a Library and Information Science student focusing on archival studies.
 - I’m looking to collaborate on Black liberation and quality metadata creation.
 - 📫 How to reach me: mu83@drexel.edu
 - Pronouns: she/they
+
+### Helpful Links
+- [Programming 101](https://github.com/PdxCodeGuild/Programming101)
+- [Digital Preservation Flashcard Deck](https://github.com/ross-spencer/brainscape-digital-preservation/blob/master/README.md)
